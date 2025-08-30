@@ -1,0 +1,55 @@
+site_name: Internal Documentation
+site_url: https://sudan-digital-archive.github.io/internal-docs
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - toc.integrate
+nav:
+    - Home: index.md
+    - 'Software Design':
+        - 'Overview': 'software-design/index.md'
+        - 'Architecture': 'software-design/architecture.md'
+    - 'Infrastructure Design':
+        - 'Overview': 'infrastructure-design/index.md'
+        - 'Architecture': 'infrastructure-design/architecture.md'
+        - 'CI/CD': 'infrastructure-design/ci-cd.md'
+        - 'Database Access': 'infrastructure-design/database-access.md'
+plugins:
+  - search
+  - offline
+  - privacy
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
