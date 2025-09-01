@@ -17,3 +17,7 @@ in the stack.
   [here](https://app.browsertrix.com/api/docs)
 - Postmark API refers to [postmark](https://postmarkapp.com/)
 - The frontend, API, and postgres database all live on digital ocean. See the [infrastructure](../infrastructure-design/index.md) section for more information
+
+## Data Modelling
+
+See the [entity relation diagrams](entity_relation_diagrams.md) here. These describe what is in the postgres database

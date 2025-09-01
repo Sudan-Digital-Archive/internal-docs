@@ -39,6 +39,7 @@ nav:
     - Home: index.md
     - 'Software Design':
         - 'Overview': 'software-design/index.md'
+        - 'Database Schema': 'software-design/entity_relation_diagrams.md'
     - 'Infrastructure Design':
         - 'Overview': 'infrastructure-design/index.md'
         - 'Architecture': 'infrastructure-design/architecture.md'
