@@ -10,7 +10,9 @@ in the stack.
 ## Components
 
 - The frontend [codebase](https://github.com/Sudan-Digital-Archive/sudan-digital-archive-frontend)
-- The API [codebase](https://github.com/Sudan-Digital-Archive/sudan-digital-archive-api)
+- The API [codebase](https://github.com/Sudan-Digital-Archive/sudan-digital-archive-api). Note there
+  is a full Open API spec available on the redoc site 
+  [here](https://api.sudandigitalarchive.com/sda-api/redoc).
 - Browsertrix API refers to [browsertrix](https://browsertrix.com/). You can see their swagger API docs 
   [here](https://app.browsertrix.com/api/docs)
 - Postmark API refers to [postmark](https://postmarkapp.com/)

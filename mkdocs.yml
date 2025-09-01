@@ -39,7 +39,6 @@ nav:
     - Home: index.md
     - 'Software Design':
         - 'Overview': 'software-design/index.md'
-        - 'Architecture': 'software-design/architecture.md'
     - 'Infrastructure Design':
         - 'Overview': 'infrastructure-design/index.md'
         - 'Architecture': 'infrastructure-design/architecture.md'
