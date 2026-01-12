@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://sudan-digital-archive.github.io/internal-docs/index.html</loc>
+         <lastmod>2026-01-12</lastmod>
+    </url>
+    <url>
+         <loc>https://sudan-digital-archive.github.io/internal-docs/infrastructure-design/index.html</loc>
+         <lastmod>2026-01-12</lastmod>
+    </url>
+    <url>
+         <loc>https://sudan-digital-archive.github.io/internal-docs/infrastructure-design/architecture.html</loc>
+         <lastmod>2026-01-12</lastmod>
+    </url>
+    <url>
+         <loc>https://sudan-digital-archive.github.io/internal-docs/infrastructure-design/ci-cd.html</loc>
+         <lastmod>2026-01-12</lastmod>
+    </url>
+    <url>
+         <loc>https://sudan-digital-archive.github.io/internal-docs/infrastructure-design/database-access.html</loc>
+         <lastmod>2026-01-12</lastmod>
+    </url>
+    <url>
+         <loc>https://sudan-digital-archive.github.io/internal-docs/software-design/index.html</loc>
+         <lastmod>2026-01-12</lastmod>
+    </url>
+    <url>
+         <loc>https://sudan-digital-archive.github.io/internal-docs/software-design/entity_relation_diagrams.html</loc>
+         <lastmod>2026-01-12</lastmod>
+    </url>
+</urlset>
